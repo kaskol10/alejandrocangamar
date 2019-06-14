@@ -1,0 +1,8 @@
+baseURL = "https://alejandro.ramiroalvfer.dev/"
+#baseURL = "http://localhost:1313"
+languageCode = "ES-ES"
+title = "alejandrocanga.com"
+theme = "uilite"
+paginate = 10
+enableRobotsTXT = true
+canonifyURLs = true 

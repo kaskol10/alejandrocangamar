@@ -1,0 +1,47 @@
+{
+  "title": "Education",
+  "education": [
+    {
+      "timeperiod": "Sep 2007 - March 2013",
+      "title": "Telecommunications Engineering",
+      "image": "_",
+      "link": "_",
+      "description": "Radiation and radio propagation, microcontrollers, network management, digital communications"
+    },
+    {
+      "timeperiod": "Dec 2017",
+      "title": "Jenkins Engineer ",
+      "image": "Jenkins.png",
+      "link": "https://certificates.cloudbees.com/332kcaiy",
+      "description": ""
+    },
+    {
+      "timeperiod": "Sep 2018",
+      "title": "AWS SysOps Administrator Associate",
+      "image": "SysOps.png",
+      "link": "https://ramiroalvfer.dev/images/SysOps.pdf",
+      "description": ""
+    },
+    {
+      "timeperiod": "Nov 2018",
+      "title": "AWS Solutions Architect Associate",
+      "image": "SolutionsArchitect.png",
+      "link": "https://ramiroalvfer.dev/images/SolutionsArchitect.pdf",
+      "description": ""
+    },
+    {
+      "timeperiod": "Dec 2018",
+      "title": "AWS Developer Associate",
+      "image": "Developer.png",
+      "link": "https://ramiroalvfer.dev/images/Developer.pdf",
+      "description": ""
+    },
+    {
+      "timeperiod": "April 2019",
+      "title": "Google Cloud Associate Cloud Engineer",
+      "image": "googlecloud.png",
+      "link": "https://www.credential.net/utpfud5p",
+      "description": ""
+    }
+  ]
+}

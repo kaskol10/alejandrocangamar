@@ -1,9 +1,9 @@
 ---
-title: "Comercial Alchersán"
-date: 2019-02-02T15:47:51+01:00
-draft: false
-featured_image: "alchersan.jpg"
----
-<a href="https://alchersan.com/" target="_blank" rel="nofollow" title="home">Comercial Alchersán S.L.</a>
+title: Puente accesos nuevo HUCA desde AS-II-Principado de Asturias
+date: 2018-05-31T22:00:00+00:00
+featured_image: 16093 PUENTE ACCESOS HUCA.JPG
 
-This is a family business where I could start with web development. The website is so simple and it's mobile first because we want to focus on the mobile users. Moreover, the website is located in AWS using Route53, S3, Cloudfront as CDN, therefore is faster than devil.
+---
+## **Con empresa CPR S.L. :**
+
+#### Fabricación de estructura metálica (tableros derecho e izquierdo, voladizos, riostras y pérgolas) sumando un total de 1200 toneladas en acero         S 355J2W + N.

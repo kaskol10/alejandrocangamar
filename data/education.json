@@ -2,6 +2,13 @@
   "title": "Education",
   "education": [
     {
+      "timeperiod": "SEPT 2016- AGOS 2017",
+      "title": "Máster Ingeniero Internacional de Soldadura ",
+      "image": "",
+      "link": "",
+      "description": "Máster en Soldadura y Tecnologías de Unión por Universidad de Oviedo que engloba el título de ingeniero europeo e internacional de soldadura otorgado por el Centro Español de Soldadura (CESOL)"
+    },
+    {
       "timeperiod": "Sep 2007 - Jul 2011",
       "title": "Ingeniero Técnico Industrial especialidad en Mecánica",
       "image": "",
@@ -9,39 +16,11 @@
       "description": "Escuela Politécnica de Ingeniería de Gijón"
     },
     {
-      "timeperiod": "SEPT 2012- MAY 2013",
+      "timeperiod": "SEPT 2012- JUL",
       "title": "Máster en Gestión de Calidad, Medio ambiente e Innovación.",
       "image": "",
       "link": "",
       "description": "Máster en Gestión de calidad, medio ambiente e innovación otorgado por el  Colegio de Ingenieros de Minas del Noroeste de España (COINME). Principales conocimientos adquiridos: Implantación de un sistema de calidad  S/ ISO 9001:2008, sistema de gestión medio ambiental S/ ISO: 14001:2008."
-    },
-    {
-      "timeperiod": "Test",
-      "title": "AWS SysOps Administrator Associate",
-      "image": "SysOps.png",
-      "link": "https://ramiroalvfer.dev/images/SysOps.pdf",
-      "description": ""
-    },
-    {
-      "timeperiod": "Nov 2018",
-      "title": "AWS Solutions Architect Associate",
-      "image": "SolutionsArchitect.png",
-      "link": "https://ramiroalvfer.dev/images/SolutionsArchitect.pdf",
-      "description": ""
-    },
-    {
-      "timeperiod": "Dec 2018",
-      "title": "AWS Developer Associate",
-      "image": "Developer.png",
-      "link": "https://ramiroalvfer.dev/images/Developer.pdf",
-      "description": ""
-    },
-    {
-      "timeperiod": "April 2019",
-      "title": "Google Cloud Associate Cloud Engineer",
-      "image": "googlecloud.png",
-      "link": "https://www.credential.net/utpfud5p",
-      "description": ""
     }
   ]
 }
